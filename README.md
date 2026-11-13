@@ -34,16 +34,6 @@ Each document included here provides an in-depth look into:
 
 ---
 
-## 📂 Repository Structure
-
-All project documentations are kept in the root folder, each named after the project:
-
-```text
-.
-├── README.md               # Main catalog and portfolio introduction (this file)
-└── proposal-flow.md        # Complete technical overview of ProposalFlow
-```
-
 ---
 
 ## 📬 Contact & Connect
