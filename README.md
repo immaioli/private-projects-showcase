@@ -31,7 +31,6 @@ Each document included here provides an in-depth look into:
 | Project | Domain / Type | Key Technologies | Documentation |
 | :--- | :--- | :--- | :---: |
 | **ProposalFlow** | Multi-tenant B2B SaaS (Margin Governance & Pipeline) | React 19, Hono, TypeScript, Prisma, PostgreSQL, Tailwind v4 | [📖 View Docs](./proposal-flow.md) |
-| *Your Next Project* | *FinTech / E-commerce / etc.* | *Stack description* | *Coming soon* |
 
 ---
 
@@ -42,28 +41,14 @@ All project documentations are kept in the root folder, each named after the pro
 ```text
 .
 ├── README.md               # Main catalog and portfolio introduction (this file)
-├── proposal-flow.md        # Complete technical overview of ProposalFlow
-└── <project-slug>.md       # Future project documentation files
+└── proposal-flow.md        # Complete technical overview of ProposalFlow
 ```
-
----
-
-## ➕ How to Add a New Project (3 Steps)
-
-1. **Create the documentation file:**  
-   Create a new Markdown file at the root named after your project (e.g., `my-saas-platform.md`).
-2. **Paste the project README:**  
-   Include the overview, key features, architecture diagram, tech stack, and ADRs.
-3. **Register in the Catalog:**  
-   Add a new row to the [Projects Catalog](#-projects-catalog) table above:
-   ```markdown
-   | **Project Name** | Category | Tech 1, Tech 2, Tech 3 | [📖 View Docs](./project-name.md) |
-   ```
 
 ---
 
 ## 📬 Contact & Connect
 
+- **LinkedIn:** [irineu-marcelo-maioli](https://www.linkedin.com/in/irineu-marcelo-maioli/)
 - **GitHub:** [@immaioli](https://github.com/immaioli)
 - **Portfolio / Website:** [maioli.dev.br](https://maioli.dev.br)
 
